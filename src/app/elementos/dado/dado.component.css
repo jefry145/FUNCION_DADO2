@@ -1,0 +1,23 @@
+.btn_animated{
+    margin: 10% 48%;
+    border: none;
+    height: 120px;
+    width: 120px;
+    font-size: 5em;
+    border-radius: 25px;
+    background: rgb(0, 0, 0);
+    color: aliceblue; 
+    cursor: pointer;
+    box-shadow: 0px 0px 8px 3px;
+    color: deepskyblue;
+}
+.titulo{
+    color: rgb(167, 167, 167);
+    margin: -8% 48%;
+    border: none;
+    height: 120px;
+    width: 120px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
